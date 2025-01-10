@@ -94,5 +94,86 @@
     "titulo": "Cabaña Eje Cafetero, Sauna terapéutico, que cuenta con piscina al aire libre, jardín y terraza, ofrece alojamiento en Filandia con wifi gratis y vistas a la ciudad. La casa rural, que tiene parking privado gratis, está en una zona en la que se pueden practicar actividades como senderismo y ciclismo.",
     "estrellas": 4,
     "oferta": false
+  },
+  [
+  {
+    "tipo": "DESTINO",
+    "precio": 90000,
+    "imagen": "img/F1-Finca Campestre Villa del Campo.jpg",
+    "titulo": "Finca Campestre Villa del Campo se encuentra en Santa Rosa de Cabal, en la región de Risaralda, a 33 km de Ukumari Zoo. Ofrece alojamiento con wifi gratis, zona de barbacoa, jardín y parking privado gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. En la casa rural se sirve todos los días un desayuno americano. Finca Campestre Villa del Campo ofrece terraza.",
+    "estrellas": 5,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 85000,
+    "imagen": "img/F2-Cabanas La Herradura.jpg",
+    "titulo": "Cabanas La Herradura se encuentra a 34 km de Ukumari Zoo y ofrece alojamiento conjardín, terraza y servicio de habitaciones. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. El desayuno está disponible todos los días e incluye opciones a la carta, mericanas o vegetarianas. Se puede descubrir la zona practicando senderismo o ciclismo en los alrededores.",
+    "estrellas": 4,
+    "oferta": true
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 70000,
+    "imagen": "img/F3- Finca el mirador.jpg",
+    "titulo": "Finca el mirador se encuentra en Dosquebradas y ofrece wifi gratis, jardín, terraza y bar. Un lugar tranquilo y lleno de naturaleza.",
+    "estrellas": 4,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 120000,
+    "imagen": "img/F4-Cabaña Killari.jpg",
+    "titulo": "Cabaña Killari está en Dosquebradas, a solo 19 km de Ukumari Zoo, y dispone de alojamiento con vistas a la ciudad, wifi gratis y parking privado gratis. Este alojamiento con vistas a la montaña ofrece balcón. La casa rural incluye una cocina con nevera y fogones, además de cafetera. Hay toallas y ropa de cama en la casa rural.",
+    "estrellas": 5,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 110000,
+    "imagen": "img/F5-La Frontera.jpg",
+    "titulo": "La Frontera está en Chinchiná y ofrece alojamiento con terraza o balcón, wifi gratis y TV de pantalla plana, además de piscina al aire libre y jardín. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.",
+    "estrellas": 5,
+    "oferta": true
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 95000,
+    "imagen": "img/F6-La Bella Finca Hostal-Lodge.jpg",
+    "titulo": "La Bella Finca Hostal-Lodge es un alojamiento con vistas a la montaña que se encuentra en Villamaría, a 24 km de Cable Aéreo de Manizales y a 34 km de Laguna del Otún. El alojamiento, que está a 33 km de Nevado de Santa Isabel, dispone de terraza y parking privado gratis. Hay toallas y ropa de cama en la casa rural.",
+    "estrellas": 4,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 100000,
+    "imagen": "img/F7-Finca El Sueño De Mi Abuelo.jpg",
+    "titulo": "Finca El Sueño De Mi Abuelo está a 26 km de Ukumari Zoo y ofrece alojamiento con restaurante, piscina al aire libre, jardín y salón de uso común. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. En Finca El Sueño De Mi Abuelo se puede usar la terraza.",
+    "estrellas": 5,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 140000,
+    "imagen": "img/F8-Cabaña Eje Cafetero, Sauna terapéutico.jpg",
+    "titulo": "Cabaña Eje Cafetero, Sauna terapéutico, que cuenta con piscina al aire libre, jardín y terraza, ofrece alojamiento en Filandia con wifi gratis y vistas a la ciudad. La casa rural, que tiene parking privado gratis, está en una zona en la que se pueden practicar actividades como senderismo y ciclismo. Esta casa rural con aire acondicionado consta de 1 dormitorio, una sala de estar, una cocina totalmente equipada con nevera y cafetera, y 1 baño con ducha y artículos de aseo gratuitos.",
+    "estrellas": 5,
+    "oferta": true
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 125000,
+    "imagen": "img/F9- Cabañas Jardines del Tatama.jpg",
+    "titulo": "Cabañas Jardines del Tatama está en Pueblo Rico y ofrece vistas a la montaña, piscina al aire libre, jardín, terraza y bar. La casa rural ofrece wifi y parking privado, ambos gratis. Las unidades están equipadas con balcón y disponen de TV de pantalla plana y baño privado con ducha.",
+    "estrellas": 5,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 80000,
+    "imagen": "img/F10- Finca la Divisa. Senderos de la Montaña.jpg",
+    "titulo": "Finca la Divisa. Senderos de la Montañadispone de jardín, terraza y bar. Está en San Vicente, a 24 km de Ukumari Zoo y a 16 km de Villa Olímpica de Pereira.",
+    "estrellas": 4,
+    "oferta": true
   }
 ]

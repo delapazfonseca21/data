@@ -90,80 +90,80 @@
   {
     "tipo": "DESTINO",
     "precio": 90000,
-    "imagen": "img/F1-Finca Campestre Villa del Campo.jpg",
-    "titulo": "Finca Campestre Villa del Campo se encuentra en Santa Rosa de Cabal, en la región de Risaralda, a 33 km de Ukumari Zoo. Ofrece alojamiento con wifi gratis, zona de barbacoa, jardín y parking privado gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. En la casa rural se sirve todos los días un desayuno americano. Finca Campestre Villa del Campo ofrece terraza.",
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/511335241.jpg?k=6580bf86b641439324ed513aa3da03fa3fcd53c3a729c783d9ce6140c1fca90c&o=",
+    "titulo": "12.Centro Integral Coodecom Centro Integral Coodecom, que tiene vistas a la montaña, dispone de alojamiento con jardín y balcón a unos 49 km de Ukumari Zoo. Esta casa rural está a 19 km de Cable Aéreo de Manizales y a 32 km de Viaducto entre Pereira y Dosquebradas. La casa rural dispone de TV de pantalla plana. Hay toallas y ropa de cama en la casa rural.",
     "estrellas": 5,
     "oferta": false
   },
   {
     "tipo": "DESTINO",
     "precio": 85000,
-    "imagen": "img/F2-Cabanas La Herradura.jpg",
-    "titulo": "Cabanas La Herradura se encuentra a 34 km de Ukumari Zoo y ofrece alojamiento conjardín, terraza y servicio de habitaciones. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. El desayuno está disponible todos los días e incluye opciones a la carta, mericanas o vegetarianas. Se puede descubrir la zona practicando senderismo o ciclismo en los alrededores.",
+    "imagen": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/0a/9c/6c.jpg ",
+    "titulo": "13.tour más completo al mágico Guatapé, donde tendrás la oportunidad de conocer la impactante Piedra del Peñol. Este tour tiene una duración de un día completo e iniciaremos desde la ciudad de Medellín. Esta es la oportunidad perfecta para que conozcas los paisajes más hermosos del país, subas 742 escalones hasta llegar a la cima de la Piedra, o recorras las calles tradicionales del pueblo. También podrás navegar el lago de Guatapé en un barco, allí verás las casas vacionales de celebridades del país.",
     "estrellas": 4,
     "oferta": true
   },
   {
     "tipo": "DESTINO",
     "precio": 70000,
-    "imagen": "img/F3- Finca el mirador.jpg",
-    "titulo": "Finca el mirador se encuentra en Dosquebradas y ofrece wifi gratis, jardín, terraza y bar. Un lugar tranquilo y lleno de naturaleza.",
+    "imagen": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/ea/a3/ce.jpg ",
+    "titulo": "14. Parque Arvi y Cascadas Medellín City Tour 5H. Explorará el Parque Arvi (Parque Arvi), hogar de lagos, cascadas, senderos naturales y una amplia variedad de aves, que su guía privado aumentará sus posibilidades de avistar.",
     "estrellas": 4,
     "oferta": false
   },
   {
     "tipo": "DESTINO",
     "precio": 120000,
-    "imagen": "img/F4-Cabaña Killari.jpg",
-    "titulo": "Cabaña Killari está en Dosquebradas, a solo 19 km de Ukumari Zoo, y dispone de alojamiento con vistas a la ciudad, wifi gratis y parking privado gratis. Este alojamiento con vistas a la montaña ofrece balcón. La casa rural incluye una cocina con nevera y fogones, además de cafetera. Hay toallas y ropa de cama en la casa rural.",
+    "imagen": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/12/1a/dc.jpg ",
+    "titulo": "15. Tour privado de café y chocolate en Medellín: Experiencia genuina. Deléitese con dos de las exportaciones más sabrosas de Colombia en un recorrido por una granja de café y chocolate desde Medellín que lo lleva fuera de los caminos trillados. Perfecto para familias y amantes de la comida, este recorrido 2 en 1 le permite rastrear el proceso del café y el chocolate, y ofrece muchas oportunidades para que pruebe y se lleve a casa productos de primera calidad.",
     "estrellas": 5,
     "oferta": false
   },
   {
     "tipo": "DESTINO",
     "precio": 110000,
-    "imagen": "img/F5-La Frontera.jpg",
-    "titulo": "La Frontera está en Chinchiná y ofrece alojamiento con terraza o balcón, wifi gratis y TV de pantalla plana, además de piscina al aire libre y jardín. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.",
+    "imagen": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/10/3b/b6/b6.jpg ",
+    "titulo": "16. Tour a finca agroecológica en El Salado. Un guía local les acompañará a través de platos típicos colombianos que han sido adaptados a ingredientes y técnicas contemporáneas. Sé parte de la transformación gastronómica de Colombia y de su revolución agricultural aprendiendo de huertas urbanas, su gente y sus prácticas.",
     "estrellas": 5,
     "oferta": true
   },
   {
     "tipo": "DESTINO",
     "precio": 95000,
-    "imagen": "img/F6-La Bella Finca Hostal-Lodge.jpg",
-    "titulo": "La Bella Finca Hostal-Lodge es un alojamiento con vistas a la montaña que se encuentra en Villamaría, a 24 km de Cable Aéreo de Manizales y a 34 km de Laguna del Otún. El alojamiento, que está a 33 km de Nevado de Santa Isabel, dispone de terraza y parking privado gratis. Hay toallas y ropa de cama en la casa rural.",
+    "imagen": "https://www.haciendalamacarena.com/wp-content/uploads/2023/01/sunfl7Ver.webp ",
+    "titulo": "17. El mejor campo de girasoles en San Martin, Meta. ¿Estás listo para vivir una experiencia única y llena de color? Te invitamos a visitar nuestro campo de girasoles en la Hacienda La Macarena, un lugar que te cautivará desde el primer instante.",
     "estrellas": 4,
     "oferta": false
   },
   {
     "tipo": "DESTINO",
     "precio": 100000,
-    "imagen": "img/F7-Finca El Sueño De Mi Abuelo.jpg",
-    "titulo": "Finca El Sueño De Mi Abuelo está a 26 km de Ukumari Zoo y ofrece alojamiento con restaurante, piscina al aire libre, jardín y salón de uso común. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. En Finca El Sueño De Mi Abuelo se puede usar la terraza.",
+    "imagen": "https://turismo.marinilla.city/wp-content/uploads/2022/06/image37-1.jpg ",
+    "titulo": "18. Granja agroturística EL CERRITO. Experimenta cómo es la vida cotidiana y los oficios tradicionales del  campo en la granja Cerritos, donde podrás aprender a elaborar productos lácteos derivados de la leche de cabra.",
     "estrellas": 5,
     "oferta": false
   },
   {
     "tipo": "DESTINO",
     "precio": 140000,
-    "imagen": "img/F8-Cabaña Eje Cafetero, Sauna terapéutico.jpg",
-    "titulo": "Cabaña Eje Cafetero, Sauna terapéutico, que cuenta con piscina al aire libre, jardín y terraza, ofrece alojamiento en Filandia con wifi gratis y vistas a la ciudad. La casa rural, que tiene parking privado gratis, está en una zona en la que se pueden practicar actividades como senderismo y ciclismo. Esta casa rural con aire acondicionado consta de 1 dormitorio, una sala de estar, una cocina totalmente equipada con nevera y cafetera, y 1 baño con ducha y artículos de aseo gratuitos.",
+    "imagen": "http://clientes.llanotravel.com/vistas/images/paquetes/cabalgata-salto-del-angel/44.jpg ",
+    "titulo": "19.CABALGATA SALTO DEL ANGEL. La ruta de la cabalgata El salto del Angel es un recorrido a caballo de dos (2) horas aproximadamente que pasa por ríos, matas de monte en donde se ven aves, micos todos en su ambiente natural, en una cabalgata de observación caballos mansos. Es un bosque con muchos árboles que es cruzado por un rio y por este vamos en el caballo disfrutando del sonido de las aves y del rio. Duración: 02:00:00 Hrs/Min Lugar de Salida: Vía Villavicencio- Restrepo  Lugar de Llegada: Vía Villavicencio - Restrepo.",
     "estrellas": 5,
     "oferta": true
   },
   {
     "tipo": "DESTINO",
     "precio": 125000,
-    "imagen": "img/F9- Cabañas Jardines del Tatama.jpg",
-    "titulo": "Cabañas Jardines del Tatama está en Pueblo Rico y ofrece vistas a la montaña, piscina al aire libre, jardín, terraza y bar. La casa rural ofrece wifi y parking privado, ambos gratis. Las unidades están equipadas con balcón y disponen de TV de pantalla plana y baño privado con ducha.",
+    "imagen": "https://www.parquesnacionales.gov.co/wp-content/uploads/2023/05/pnn-tayrona-da-7-1-1536x480.jpg ",
+    "titulo": "20. El Parque es una reserva natural, hay muchas actividades para realizar, Museo Arqueológico de Chairama, situado en el sector conocido como Cañaveral, cerca de la desembocadura del río Piedras. Posee una exposición arqueológica permanente. Sendero Los Naranjos. Cabo San Juan del Guía, en el sector más alejado y tiene servicios de alojamiento, baños y restaurantes. Playa Nudista, no es oficialmente una playa nudista pero el nombre y las condiciones del sector han creado la costumbre del nudismo en dicha playa.Pueblito Chairama, ruinas arqueológicas de pobladores Tayrona que lo ocuparon hace más de 500 años. Ciudad Perdida, trekking ubicado dentro de la selva, para descubrir algunas ruinas tapadas entre la vegetación",
     "estrellas": 5,
     "oferta": false
   },
   {
     "tipo": "DESTINO",
     "precio": 80000,
-    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558814487.jpg?k=ea36179735e5df8775fd00077d8d7712897b5a0aabbba2b52ea30102d5d527be&o=&hp=1",
-    "titulo": "12. Finca la Divisa. Senderos de la Montañadispone de jardín, terraza y bar. Está en San Vicente, a 24 km de Ukumari Zoo y a 16 km de Villa Olímpica de Pereira.",
+    "imagen": "https://siemprecolombia.com/wp-content/uploads/2021/06/during-our-trip-to-amazons-1024x682.jpg ",
+    "titulo": "21. Explorando el Amazonas. Navegar por el río más largo y caudaloso del mundo Amazónico, será toda una aventura, donde podrás adentrarte por sus quebradas, furos y pantanos, remar plácidamente por la selva inundada y en algún mágico momento respirar los aromas de la selva. Puedes maravillarte con la gran diversidad de colores y tonalidades naturales. También escuchar una manada de micos cruzando el dosel del bosque, o maravillarte con el majestuoso vuelo de las guacamayas, que en parejas, alegremente adornan el cielo amazónico.",
     "estrellas": 4,
     "oferta": true
   }

@@ -11,7 +11,7 @@
     "tipo": "PAQUETE",
     "precio": 70000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374335236.jpg?k=95a2a0c1c6f78b1f6445c9549bba1354e10e201e6d37ef4ab42ad1e036e4baad&o=&hp=1",
-    "titulo": "Cabanas La Herradura se encuentra a 34 km de Ukumari Zoo y ofrece alojamiento conjardín, terraza y servicio de habitaciones. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.",
+    "titulo": "1. Cabanas La Herradura se encuentra a 34 km de Ukumari Zoo y ofrece alojamiento conjardín, terraza y servicio de habitaciones. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. El desayuno está disponible todos los días e incluye opciones a la carta, mericanas o vegetarianas. Se puede descubrir la zona practicando senderismo o ciclismo en los alrededores.",
     "estrellas": 4,
     "oferta": true
   },
@@ -19,7 +19,7 @@
     "tipo": "DESTINO",
     "precio": 120000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/587576083.jpg?k=70eb91aa98d097c393d27cd63df8fcd256d9e52ce1f42b848ec01eeb19556100&o=",
-    "titulo": "Finca el mirador se encuentra en Dosquebradas y ofrece wifi gratis, jardín, terraza y bar. Un lugar tranquilo y lleno de naturaleza.",
+    "titulo": "2. Finca el mirador se encuentra en Dosquebradas y ofrece wifi gratis, jardín, terraza y bar. Un lugar tranquilo y lleno de naturaleza.",
     "estrellas": 3,
     "oferta": true
   },
@@ -27,15 +27,15 @@
     "tipo": "DESTINO",
     "precio": 120000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/587576083.jpg?k=70eb91aa98d097c393d27cd63df8fcd256d9e52ce1f42b848ec01eeb19556100&o=",
-    "titulo": "Finca el mirador se encuentra en Dosquebradas y ofrece wifi gratis, jardín, terraza y bar. Un lugar tranquilo y lleno de naturaleza.",
+    "titulo": "3. Finca el mirador se encuentra en Dosquebradas y ofrece wifi gratis, jardín, terraza y bar. Un lugar tranquilo y lleno de naturaleza.",
     "estrellas": 3,
     "oferta": true
   },
   {
     "tipo": "DESTINO",
     "precio": 70000,
-    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353860738.jpg?k=c9535c4088b9428da6fb605d21475a24f07775307e94086847c51333d06577c0&o=",
-    "titulo": "La Frontera está en Chinchiná y ofrece alojamiento con terraza o balcón, wifi gratis y TV de pantalla plana, además de piscina al aire libre y jardín. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.",
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max300/532964575.jpg?k=9f2293bbf8d614cafc494c476c090916a98b16677d96fb9f8b05f62f532942a2&o=",
+    "titulo": "4. Cabaña Killari está en Dosquebradas, a solo 19 km de Ukumari Zoo, y dispone de alojamiento con vistas a la ciudad, wifi gratis y parking privado gratis. Este alojamiento con vistas a la montaña ofrece balcón.  La casa rural incluye una cocina con nevera y fogones, además de cafetera. Hay toallas y ropa de cama en la casa rural.",
     "estrellas": 4,
     "oferta": false
   },
@@ -43,7 +43,7 @@
     "tipo": "DESTINO",
     "precio": 70000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/353860738.jpg?k=c9535c4088b9428da6fb605d21475a24f07775307e94086847c51333d06577c0&o=",
-    "titulo": "La Frontera está en Chinchiná y ofrece alojamiento con terraza o balcón, wifi gratis y TV de pantalla plana, además de piscina al aire libre y jardín. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.",
+    "titulo": "5. La Frontera está en Chinchiná y ofrece alojamiento con terraza o balcón, wifi gratis y TV de pantalla plana, además de piscina al aire libre y jardín. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.",
     "estrellas": 4,
     "oferta": false
   },
@@ -51,15 +51,7 @@
     "tipo": "DESTINO",
     "precio": 70000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467677914.jpg?k=6d83af0336673c520b8e584cf421f64f5517108993836f22615af92f312982b7&o=&hp=1",
-    "titulo": "La Bella Finca Hostal-Lodge es un alojamiento con vistas a la montaña que se encuentra en Villamaría, a 24 km de Cable Aéreo de Manizales y a 34 km de Laguna del Otún. El alojamiento, que está a 33 km de Nevado de Santa Isabel, dispone de terraza y parking privado gratis.",
-    "estrellas": 4,
-    "oferta": false
-  },
-  {
-    "tipo": "DESTINO",
-    "precio": 70000,
-    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/467677914.jpg?k=6d83af0336673c520b8e584cf421f64f5517108993836f22615af92f312982b7&o=&hp=1",
-    "titulo": "La Bella Finca Hostal-Lodge es un alojamiento con vistas a la montaña que se encuentra en Villamaría, a 24 km de Cable Aéreo de Manizales y a 34 km de Laguna del Otún. El alojamiento, que está a 33 km de Nevado de Santa Isabel, dispone de terraza y parking privado gratis.",
+    "titulo": "6.La Bella Finca Hostal-Lodge es un alojamiento con vistas a la montaña que se encuentra en Villamaría, a 24 km de Cable Aéreo de Manizales y a 34 km de Laguna del Otún. El alojamiento, que está a 33 km de Nevado de Santa Isabel, dispone de terraza y parking privado gratis. Hay toallas y ropa de cama en la casa rural.",
     "estrellas": 4,
     "oferta": false
   },
@@ -67,15 +59,7 @@
     "tipo": "DESTINO",
     "precio": 70000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188140138.jpg?k=77afcc5dd3947ee778c2851fd301cf3524f6abf661e79c11d720d7c0e7c79a2f&o=&hp=1",
-    "titulo": "Finca El Sueño De Mi Abuelo está a 26 km de Ukumari Zoo y ofrece alojamiento con restaurante, piscina al aire libre, jardín y salón de uso común. La casa rural ofrece wifi y parking privado, ambos gratis.",
-    "estrellas": 4,
-    "oferta": false
-  },
-  {
-    "tipo": "DESTINO",
-    "precio": 70000,
-    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188140138.jpg?k=77afcc5dd3947ee778c2851fd301cf3524f6abf661e79c11d720d7c0e7c79a2f&o=&hp=1",
-    "titulo": "Finca El Sueño De Mi Abuelo está a 26 km de Ukumari Zoo y ofrece alojamiento con restaurante, piscina al aire libre, jardín y salón de uso común. La casa rural ofrece wifi y parking privado, ambos gratis.",
+    "titulo": "7. Finca El Sueño De Mi Abuelo está a 26 km de Ukumari Zoo y ofrece alojamiento con restaurante, piscina al aire libre, jardín y salón de uso común. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. En Finca El Sueño De Mi Abuelo se puede usar la terraza.",
     "estrellas": 4,
     "oferta": false
   },
@@ -83,15 +67,31 @@
     "tipo": "DESTINO",
     "precio": 70000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/533949176.jpg?k=951c16eab7a561d854adc3a80f56b09df7b1329fcd4ae0b7f4fe864019e56d70&o=",
-    "titulo": "Cabaña Eje Cafetero, Sauna terapéutico, que cuenta con piscina al aire libre, jardín y terraza, ofrece alojamiento en Filandia con wifi gratis y vistas a la ciudad. La casa rural, que tiene parking privado gratis, está en una zona en la que se pueden practicar actividades como senderismo y ciclismo.",
+    "titulo": "8. Cabaña Eje Cafetero, Sauna terapéutico, que cuenta con piscina al aire libre, jardín y terraza, ofrece alojamiento en Filandia con wifi gratis y vistas a la ciudad. La casa rural, que tiene parking privado gratis, está en una zona en la que se pueden practicar actividades como senderismo y ciclismo. Esta casa rural con aire acondicionado consta de 1 dormitorio, una sala de estar, una cocina totalmente equipada con nevera y cafetera, y 1 baño con ducha y artículos de aseo gratuitos. Hay toallas y ropa de cama en la casa rural. El personal de recepción habla tanto inglés como español y está dispuesto a ayudar en cualquier momento. La casa rural ofrece sauna. El alojamiento dispone de un club infantil que ofrece varias actividades, así como una zona de juegos.",
     "estrellas": 4,
     "oferta": false
   },
   {
     "tipo": "DESTINO",
     "precio": 70000,
-    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/533949176.jpg?k=951c16eab7a561d854adc3a80f56b09df7b1329fcd4ae0b7f4fe864019e56d70&o=",
-    "titulo": "Cabaña Eje Cafetero, Sauna terapéutico, que cuenta con piscina al aire libre, jardín y terraza, ofrece alojamiento en Filandia con wifi gratis y vistas a la ciudad. La casa rural, que tiene parking privado gratis, está en una zona en la que se pueden practicar actividades como senderismo y ciclismo.",
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/612922965.jpg?k=0c149c30fb2f7cfbdb1cb6425ceec1845304b7170c49a26b989bbc4c45b2919a&o=",
+    "titulo": "9. Cabañas Jardines del Tatama está en Pueblo Rico y ofrece vistas a la montaña, piscina al aire libre, jardín, terraza y bar. La casa rural ofrece wifi y parking privado, ambos gratis. Las unidades están equipadas con balcón y disponen de TV de pantalla plana y baño privado con ducha. Para mayor comodidad, el alojamiento puede ofrecer toallas y ropa de cama por un suplemento. En Cabañas Jardines del Tatama se puede disfrutar de un desayuno americano.",
+    "estrellas": 4,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 70000,
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558814487.jpg?k=ea36179735e5df8775fd00077d8d7712897b5a0aabbba2b52ea30102d5d527be&o=&hp=1",
+    "titulo": "10. Finca la Divisa. Senderos de la Montañadispone de jardín, terraza y bar. Está en San Vicente, a 24 km de Ukumari Zoo y a 16 km de Villa Olímpica de Pereira. Algunas unidades disponen de zona de comedor y/o balcón. Se puede descubrir la zona practicando senderismo en los alrededores. Centro de Convenciones Expofuturo está a 17 km del alojamiento, y Estadio Hernán Ramírez Villegas está a 17 km. El aeropuerto (Aeropuerto internacional Matecaña) está a 16 km, y el alojamiento ofrece servicio de traslado de pago para ir o volver del aeropuerto.",
+    "estrellas": 4,
+    "oferta": false
+  },
+  {
+    "tipo": "DESTINO",
+    "precio": 70000,
+    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/520865144.jpg?k=ffdf3202045fd9169675551e52d259f6468e02c21795d4cac9f931b02fd533ac&o=&hp=1",
+    "titulo": "11. La casa rural ofrece desayuno continental o americano. En Itaca Hostel finca Cafetera, la clientela puede disfrutar de bañera de hidromasaje. Hay un salón de uso común en este alojamiento, y en la zona se puede practicar ciclismo.",
     "estrellas": 4,
     "oferta": false
   },
@@ -171,7 +171,7 @@
     "tipo": "DESTINO",
     "precio": 80000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/558814487.jpg?k=ea36179735e5df8775fd00077d8d7712897b5a0aabbba2b52ea30102d5d527be&o=&hp=1",
-    "titulo": "Finca la Divisa. Senderos de la Montañadispone de jardín, terraza y bar. Está en San Vicente, a 24 km de Ukumari Zoo y a 16 km de Villa Olímpica de Pereira.",
+    "titulo": "12. Finca la Divisa. Senderos de la Montañadispone de jardín, terraza y bar. Está en San Vicente, a 24 km de Ukumari Zoo y a 16 km de Villa Olímpica de Pereira.",
     "estrellas": 4,
     "oferta": true
   }

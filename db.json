@@ -3,7 +3,7 @@
     "tipo": "DESTINO",
     "precio": 90000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/549654722.jpg?k=94cbbbbf9b615ba903f51033c16cf657da31863f30c8b3e691b8d17ed1733eb0&o=",
-    "titulo": "Finca Campestre Villa del Campo se encuentra en Santa Rosa de Cabal, en la región de Risaralda, a 33 km de Ukumari Zoo. Ofrece alojamiento con wifi gratis, zona de barbacoa, jardín y parking privado gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. En la casa rural se sirve todos los días un desayuno americano. Finca Campestre Villa del Campo ofrece terraza.",
+    "titulo": "1. Finca Campestre Villa del Campo se encuentra en Santa Rosa de Cabal, en la región de Risaralda, a 33 km de Ukumari Zoo. Ofrece alojamiento con wifi gratis, zona de barbacoa, jardín y parking privado gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. En la casa rural se sirve todos los días un desayuno americano. Finca Campestre Villa del Campo ofrece terraza.",
     "estrellas": 5,
     "oferta": false
   },
@@ -11,16 +11,8 @@
     "tipo": "PAQUETE",
     "precio": 70000,
     "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/374335236.jpg?k=95a2a0c1c6f78b1f6445c9549bba1354e10e201e6d37ef4ab42ad1e036e4baad&o=&hp=1",
-    "titulo": "1. Cabanas La Herradura se encuentra a 34 km de Ukumari Zoo y ofrece alojamiento conjardín, terraza y servicio de habitaciones. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. El desayuno está disponible todos los días e incluye opciones a la carta, mericanas o vegetarianas. Se puede descubrir la zona practicando senderismo o ciclismo en los alrededores.",
+    "titulo": "2. Cabanas La Herradura se encuentra a 34 km de Ukumari Zoo y ofrece alojamiento conjardín, terraza y servicio de habitaciones. La casa rural ofrece wifi y parking privado, ambos gratis. Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos. El desayuno está disponible todos los días e incluye opciones a la carta, mericanas o vegetarianas. Se puede descubrir la zona practicando senderismo o ciclismo en los alrededores.",
     "estrellas": 4,
-    "oferta": true
-  },
-  {
-    "tipo": "DESTINO",
-    "precio": 120000,
-    "imagen": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/587576083.jpg?k=70eb91aa98d097c393d27cd63df8fcd256d9e52ce1f42b848ec01eeb19556100&o=",
-    "titulo": "2. Finca el mirador se encuentra en Dosquebradas y ofrece wifi gratis, jardín, terraza y bar. Un lugar tranquilo y lleno de naturaleza.",
-    "estrellas": 3,
     "oferta": true
   },
   {
